@@ -1,12 +1,12 @@
 # RSVP-Movies-Case-Study
 
- Objective   
+ ## Objective:  
 - Analyze an IMDb dataset to draw insights and make recommendations for a future movie project.
 
- Dataset Details   
+ ## Dataset Details:   
 - Contains information on movies, including titles, release dates, ratings, and production budgets.
 
- Steps in Analysis   
+## Steps in Analysis:   
 1.  Data Cleaning   
    - Handle missing values.
    - Remove duplicates.
